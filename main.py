@@ -23,7 +23,7 @@ for s in array:
             MS = s[22:28]
 
     # find main data
-    if s.find("VC"):
+    if s.find("VC") != -1:
         MAINDATA = s[42:].rstrip()
 
     # print result
