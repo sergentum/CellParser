@@ -6,6 +6,7 @@ SNT = ""
 MS = ""
 MAINDATA = ""
 for s in array:
+
     # work with string after header
     if findhead == 1:
         findhead = 0
@@ -21,9 +22,9 @@ for s in array:
         if s.find("MS") != -1:
             MS = s[22:28]
 
+    # find main data
     if s.find("VC"):
         MAINDATA = s[42:].rstrip()
 
+    # print result
     print(SDIP + SNT + MS + MAINDATA)
-    # print(s)
-
