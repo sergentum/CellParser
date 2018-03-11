@@ -5,6 +5,7 @@ SDIP = ""
 SNT = ""
 MS = ""
 MAINDATA = ""
+SDIPP = 6
 for s in array:
 
     # work with string after header
@@ -16,15 +17,18 @@ for s in array:
     # find header and mark it
     if s.find("SDIP     SNT") != -1:
         findhead = 1
+        if s.find("SDIPP") != -1:
+            SDIPP = 6
+        else:
+            SDIPP = 0
 
     # find MS-* in
     if s.find("SDIP     SNT") == -1:
         if s.find("MS") != -1:
-            MS = s[22:28]
+            MS = s[22 + SDIPP:28 + SDIPP]
 
     # find main data
     if s.find("VC") != -1:
-        MAINDATA = s[42:].rstrip()
-
-    # print result
-    print(SDIP + SNT + MS + MAINDATA)
+        MAINDATA = s[42 + SDIPP:].rstrip()
+        # print result
+        print(SDIP + SNT + MS + MAINDATA)
