@@ -14,6 +14,7 @@ listDtstp = []
 mode = 1
 for s in array:
 
+    # find out what command block we are going through
     if s.find("<tpcop") != -1:
         mode = 1
     elif s.find("<dtstp") != -1:
