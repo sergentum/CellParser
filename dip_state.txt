@@ -6,9 +6,1062 @@ SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
 0ETM2    ETM2-0       MS-0  CLREF  VC4-0  VC12-0   1  1  1  0RAL2
                       MS-1  CLREF         VC12-1   2  1  1  1RAL2
                                           VC12-2   3  1  1  2RAL2
+                                          VC12-3   1  2  1  3RAL2
+                                          VC12-4   2  2  1  4RAL2
+                                          VC12-5   3  2  1  5RAL2
+                                          VC12-6   1  3  1  6RAL2
+                                          VC12-7   2  3  1  7RAL2
+                                          VC12-8   3  3  1  8RAL2
+                                          VC12-9   1  4  1  9RAL2
+                                          VC12-10  2  4  1  10RAL2
+                                          VC12-11  3  4  1  11RAL2
+                                          VC12-12  1  5  1  12RAL2
+                                          VC12-13  2  5  1  13RAL2
+                                          VC12-14  3  5  1  14RAL2
+                                          VC12-15  1  6  1  15RAL2
+                                          VC12-16  2  6  1  16RAL2
+                                          VC12-17  3  6  1  17RAL2
+                                          VC12-18  1  7  1  18RAL2
+                                          VC12-19  2  7  1  19RAL2
+                                          VC12-20  3  7  1  20RAL2
+                                          VC12-21  1  1  2  21RAL2
+                                          VC12-22  2  1  2  22RAL2
+                                          VC12-23  3  1  2  23RAL2
+                                          VC12-24  1  2  2  24RAL2
+                                          VC12-25  2  2  2  25RAL2
+                                          VC12-26  3  2  2  26RAL2
+                                          VC12-27  1  3  2  27RAL2
+                                          VC12-28  2  3  2  28RAL2
+                                          VC12-29  3  3  2  29RAL2
+                                          VC12-30  1  4  2  30RAL2
+                                          VC12-31  2  4  2  31RAL2
+                                          VC12-32  3  4  2  32RAL2
+                                          VC12-33  1  5  2  33RAL2
+                                          VC12-34  2  5  2  34RAL2
+                                          VC12-35  3  5  2  35RAL2
+                                          VC12-36  1  6  2  36RAL2
+                                          VC12-37  2  6  2  37RAL2
+                                          VC12-38  3  6  2  38RAL2
+                                          VC12-39  1  7  2  39RAL2
+                                          VC12-40  2  7  2  40RAL2
+                                          VC12-41  3  7  2  41RAL2
+                                          VC12-42  1  1  3  42RAL2
+                                          VC12-43  2  1  3  43RAL2
+                                          VC12-44  3  1  3  44RAL2
+                                          VC12-45  1  2  3  45RAL2
+                                          VC12-46  2  2  3  46RAL2
+                                          VC12-47  3  2  3  47RAL2
+                                          VC12-48  1  3  3  48RAL2
+                                          VC12-49  2  3  3  49RAL2
+                                          VC12-50  3  3  3  50RAL2
+                                          VC12-51  1  4  3  51RAL2
+                                          VC12-52  2  4  3  52RAL2
+                                          VC12-53  3  4  3  53RAL2
+                                          VC12-54  1  5  3  54RAL2
+                                          VC12-55  2  5  3  55RAL2
+                                          VC12-56  3  5  3  56RAL2
+                                          VC12-57  1  6  3  57RAL2
+                                          VC12-58  2  6  3  58RAL2
+                                          VC12-59  3  6  3  59RAL2
+                                          VC12-60  1  7  3  60RAL2
+                                          VC12-61  2  7  3  61RAL2
+                                          VC12-62  3  7  3  62RAL2
 
+SDIP     SDIPOWNER
+0ETM2    SDIPM2
 
-                                          *** Connected to BSC8BAR ***
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+1ETM2    ETM2-1       MS-0         VC4-0  VC12-0   1  1  1  63RAL2
+                      MS-1                VC12-1   2  1  1  64RAL2
+                                          VC12-2   3  1  1  65RAL2
+                                          VC12-3   1  2  1  66RAL2
+                                          VC12-4   2  2  1  67RAL2
+                                          VC12-5   3  2  1  68RAL2
+                                          VC12-6   1  3  1  69RAL2
+                                          VC12-7   2  3  1  70RAL2
+                                          VC12-8   3  3  1  71RAL2
+                                          VC12-9   1  4  1  72RAL2
+                                          VC12-10  2  4  1  73RAL2
+                                          VC12-11  3  4  1  74RAL2
+                                          VC12-12  1  5  1  75RAL2
+                                          VC12-13  2  5  1  76RAL2
+                                          VC12-14  3  5  1  77RAL2
+                                          VC12-15  1  6  1  78RAL2
+                                          VC12-16  2  6  1  79RAL2
+                                          VC12-17  3  6  1  80RAL2
+                                          VC12-18  1  7  1  81RAL2
+                                          VC12-19  2  7  1  82RAL2
+                                          VC12-20  3  7  1  83RAL2
+                                          VC12-21  1  1  2  84RAL2
+                                          VC12-22  2  1  2  85RAL2
+                                          VC12-23  3  1  2  86RAL2
+                                          VC12-24  1  2  2  87RAL2
+                                          VC12-25  2  2  2  88RAL2
+                                          VC12-26  3  2  2  89RAL2
+                                          VC12-27  1  3  2  90RAL2
+                                          VC12-28  2  3  2  91RAL2
+                                          VC12-29  3  3  2  92RAL2
+                                          VC12-30  1  4  2  93RAL2
+                                          VC12-31  2  4  2  94RAL2
+                                          VC12-32  3  4  2  95RAL2
+                                          VC12-33  1  5  2  96RAL2
+                                          VC12-34  2  5  2  97RAL2
+                                          VC12-35  3  5  2  98RAL2
+                                          VC12-36  1  6  2  99RAL2
+                                          VC12-37  2  6  2  100RAL2
+                                          VC12-38  3  6  2  101RAL2
+                                          VC12-39  1  7  2  102RAL2
+                                          VC12-40  2  7  2  103RAL2
+                                          VC12-41  3  7  2  104RAL2
+                                          VC12-42  1  1  3  105RAL2
+                                          VC12-43  2  1  3  106RAL2
+                                          VC12-44  3  1  3  107RAL2
+                                          VC12-45  1  2  3  108RAL2
+                                          VC12-46  2  2  3  109RAL2
+                                          VC12-47  3  2  3  110RAL2
+                                          VC12-48  1  3  3  111RAL2
+                                          VC12-49  2  3  3  112RAL2
+                                          VC12-50  3  3  3  113RAL2
+                                          VC12-51  1  4  3  114RAL2
+                                          VC12-52  2  4  3  115RAL2
+                                          VC12-53  3  4  3  116RAL2
+                                          VC12-54  1  5  3  117RAL2
+                                          VC12-55  2  5  3  118RAL2
+                                          VC12-56  3  5  3  119RAL2
+                                          VC12-57  1  6  3  120RAL2
+                                          VC12-58  2  6  3  121RAL2
+                                          VC12-59  3  6  3  122RAL2
+                                          VC12-60  1  7  3  123RAL2
+                                          VC12-61  2  7  3  124RAL2
+                                          VC12-62  3  7  3  125RAL2
+
+SDIP     SDIPOWNER
+1ETM2    SDIPM2
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+2ETM2    ETM2-2       MS-0         VC4-0  VC12-0   1  1  1  126RBL2
+                      MS-1                VC12-1   2  1  1  127RBL2
+                                          VC12-2   3  1  1  128RBL2
+                                          VC12-3   1  2  1  129RBL2
+                                          VC12-4   2  2  1  130RBL2
+                                          VC12-5   3  2  1  131RBL2
+                                          VC12-6   1  3  1  132RBL2
+                                          VC12-7   2  3  1  133RBL2
+                                          VC12-8   3  3  1  134RBL2
+                                          VC12-9   1  4  1  135RBL2
+                                          VC12-10  2  4  1  136RBL2
+                                          VC12-11  3  4  1  137RBL2
+                                          VC12-12  1  5  1  138RBL2
+                                          VC12-13  2  5  1  139RBL2
+                                          VC12-14  3  5  1  140RBL2
+                                          VC12-15  1  6  1  141RBL2
+                                          VC12-16  2  6  1  142RBL2
+                                          VC12-17  3  6  1  143RBL2
+                                          VC12-18  1  7  1  144RBL2
+                                          VC12-19  2  7  1  145RBL2
+                                          VC12-20  3  7  1  146RBL2
+                                          VC12-21  1  1  2  147RBL2
+                                          VC12-22  2  1  2  148RBL2
+                                          VC12-23  3  1  2  149RBL2
+                                          VC12-24  1  2  2  150RBL2
+                                          VC12-25  2  2  2  151RBL2
+                                          VC12-26  3  2  2  152RBL2
+                                          VC12-27  1  3  2  153RBL2
+                                          VC12-28  2  3  2  154RBL2
+                                          VC12-29  3  3  2  155RBL2
+                                          VC12-30  1  4  2  156RBL2
+                                          VC12-31  2  4  2  157RBL2
+                                          VC12-32  3  4  2  158RBL2
+                                          VC12-33  1  5  2  159RBL2
+                                          VC12-34  2  5  2  160RBL2
+                                          VC12-35  3  5  2  161RBL2
+                                          VC12-36  1  6  2  162RBL2
+                                          VC12-37  2  6  2  163RBL2
+                                          VC12-38  3  6  2  164RBL2
+                                          VC12-39  1  7  2  165RBL2
+                                          VC12-40  2  7  2  166RBL2
+                                          VC12-41  3  7  2  167RBL2
+                                          VC12-42  1  1  3  168RBL2
+                                          VC12-43  2  1  3  169RBL2
+                                          VC12-44  3  1  3  170RBL2
+                                          VC12-45  1  2  3  171RBL2
+                                          VC12-46  2  2  3  172RBL2
+                                          VC12-47  3  2  3  173RBL2
+                                          VC12-48  1  3  3  174RBL2
+                                          VC12-49  2  3  3  175RBL2
+                                          VC12-50  3  3  3  176RBL2
+                                          VC12-51  1  4  3  177RBL2
+                                          VC12-52  2  4  3  178RBL2
+                                          VC12-53  3  4  3  179RBL2
+                                          VC12-54  1  5  3  180RBL2
+                                          VC12-55  2  5  3  181RBL2
+                                          VC12-56  3  5  3  182RBL2
+                                          VC12-57  1  6  3  183RBL2
+                                          VC12-58  2  6  3  184RBL2
+                                          VC12-59  3  6  3  185RBL2
+                                          VC12-60  1  7  3  186RBL2
+                                          VC12-61  2  7  3  187RBL2
+                                          VC12-62  3  7  3  188RBL2
+
+SDIP     SDIPOWNER
+2ETM2    SDIPM2
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+3ETM2    ETM2-3       MS-0         VC4-0  VC12-0   1  1  1  0RBL2
+                      MS-1                VC12-1   2  1  1  1RBL2
+                                          VC12-2   3  1  1  2RBL2
+                                          VC12-3   1  2  1  3RBL2
+                                          VC12-4   2  2  1  4RBL2
+                                          VC12-5   3  2  1  5RBL2
+                                          VC12-6   1  3  1  6RBL2
+                                          VC12-7   2  3  1  7RBL2
+                                          VC12-8   3  3  1  8RBL2
+                                          VC12-9   1  4  1  9RBL2
+                                          VC12-10  2  4  1  10RBL2
+                                          VC12-11  3  4  1  11RBL2
+                                          VC12-12  1  5  1  12RBL2
+                                          VC12-13  2  5  1  13RBL2
+                                          VC12-14  3  5  1  14RBL2
+                                          VC12-15  1  6  1  15RBL2
+                                          VC12-16  2  6  1  16RBL2
+                                          VC12-17  3  6  1  17RBL2
+                                          VC12-18  1  7  1  18RBL2
+                                          VC12-19  2  7  1  19RBL2
+                                          VC12-20  3  7  1  20RBL2
+                                          VC12-21  1  1  2  21RBL2
+                                          VC12-22  2  1  2  22RBL2
+                                          VC12-23  3  1  2  23RBL2
+                                          VC12-24  1  2  2  24RBL2
+                                          VC12-25  2  2  2  25RBL2
+                                          VC12-26  3  2  2  26RBL2
+                                          VC12-27  1  3  2  27RBL2
+                                          VC12-28  2  3  2  28RBL2
+                                          VC12-29  3  3  2  29RBL2
+                                          VC12-30  1  4  2  30RBL2
+                                          VC12-31  2  4  2  31RBL2
+                                          VC12-32  3  4  2  32RBL2
+                                          VC12-33  1  5  2  33RBL2
+                                          VC12-34  2  5  2  34RBL2
+                                          VC12-35  3  5  2  35RBL2
+                                          VC12-36  1  6  2  36RBL2
+                                          VC12-37  2  6  2  37RBL2
+                                          VC12-38  3  6  2  38RBL2
+                                          VC12-39  1  7  2  39RBL2
+                                          VC12-40  2  7  2  40RBL2
+                                          VC12-41  3  7  2  41RBL2
+                                          VC12-42  1  1  3  42RBL2
+                                          VC12-43  2  1  3  43RBL2
+                                          VC12-44  3  1  3  44RBL2
+                                          VC12-45  1  2  3  45RBL2
+                                          VC12-46  2  2  3  46RBL2
+                                          VC12-47  3  2  3  47RBL2
+                                          VC12-48  1  3  3  48RBL2
+                                          VC12-49  2  3  3  49RBL2
+                                          VC12-50  3  3  3  50RBL2
+                                          VC12-51  1  4  3  51RBL2
+                                          VC12-52  2  4  3  52RBL2
+                                          VC12-53  3  4  3  53RBL2
+                                          VC12-54  1  5  3  54RBL2
+                                          VC12-55  2  5  3  55RBL2
+                                          VC12-56  3  5  3  56RBL2
+                                          VC12-57  1  6  3  57RBL2
+                                          VC12-58  2  6  3  58RBL2
+                                          VC12-59  3  6  3  59RBL2
+                                          VC12-60  1  7  3  60RBL2
+                                          VC12-61  2  7  3  61RBL2
+                                          VC12-62  3  7  3  62RBL2
+
+SDIP     SDIPOWNER
+3ETM2    SDIPM2
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+4ETM2    ETM2-4       MS-0         VC4-0  VC12-0   1  1  1  63RBL2
+                      MS-1                VC12-1   2  1  1  64RBL2
+                                          VC12-2   3  1  1  65RBL2
+                                          VC12-3   1  2  1  66RBL2
+                                          VC12-4   2  2  1  67RBL2
+                                          VC12-5   3  2  1  68RBL2
+                                          VC12-6   1  3  1  69RBL2
+                                          VC12-7   2  3  1  70RBL2
+                                          VC12-8   3  3  1  71RBL2
+                                          VC12-9   1  4  1  72RBL2
+                                          VC12-10  2  4  1  73RBL2
+                                          VC12-11  3  4  1  74RBL2
+                                          VC12-12  1  5  1  75RBL2
+                                          VC12-13  2  5  1  76RBL2
+                                          VC12-14  3  5  1  77RBL2
+                                          VC12-15  1  6  1  78RBL2
+                                          VC12-16  2  6  1  79RBL2
+                                          VC12-17  3  6  1  80RBL2
+                                          VC12-18  1  7  1  81RBL2
+                                          VC12-19  2  7  1  82RBL2
+                                          VC12-20  3  7  1  83RBL2
+                                          VC12-21  1  1  2  84RBL2
+                                          VC12-22  2  1  2  85RBL2
+                                          VC12-23  3  1  2  86RBL2
+                                          VC12-24  1  2  2  87RBL2
+                                          VC12-25  2  2  2  88RBL2
+                                          VC12-26  3  2  2  89RBL2
+                                          VC12-27  1  3  2  90RBL2
+                                          VC12-28  2  3  2  91RBL2
+                                          VC12-29  3  3  2  92RBL2
+                                          VC12-30  1  4  2  93RBL2
+                                          VC12-31  2  4  2  94RBL2
+                                          VC12-32  3  4  2  95RBL2
+                                          VC12-33  1  5  2  96RBL2
+                                          VC12-34  2  5  2  97RBL2
+                                          VC12-35  3  5  2  98RBL2
+                                          VC12-36  1  6  2  99RBL2
+                                          VC12-37  2  6  2  100RBL2
+                                          VC12-38  3  6  2  101RBL2
+                                          VC12-39  1  7  2  102RBL2
+                                          VC12-40  2  7  2  103RBL2
+                                          VC12-41  3  7  2  104RBL2
+                                          VC12-42  1  1  3  105RBL2
+                                          VC12-43  2  1  3  106RBL2
+                                          VC12-44  3  1  3  107RBL2
+                                          VC12-45  1  2  3  108RBL2
+                                          VC12-46  2  2  3  109RBL2
+                                          VC12-47  3  2  3  110RBL2
+                                          VC12-48  1  3  3  111RBL2
+                                          VC12-49  2  3  3  112RBL2
+                                          VC12-50  3  3  3  113RBL2
+                                          VC12-51  1  4  3  114RBL2
+                                          VC12-52  2  4  3  115RBL2
+                                          VC12-53  3  4  3  116RBL2
+                                          VC12-54  1  5  3  117RBL2
+                                          VC12-55  2  5  3  118RBL2
+                                          VC12-56  3  5  3  119RBL2
+                                          VC12-57  1  6  3  120RBL2
+                                          VC12-58  2  6  3  121RBL2
+                                          VC12-59  3  6  3  122RBL2
+                                          VC12-60  1  7  3  123RBL2
+                                          VC12-61  2  7  3  124RBL2
+                                          VC12-62  3  7  3  125RBL2
+
+SDIP     SDIPOWNER
+4ETM2    SDIPM2
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+5ETM2    ETM2-5       MS-0         VC4-0  VC12-0   1  1  1  126RAL2
+                      MS-1                VC12-1   2  1  1  127RAL2
+                                          VC12-2   3  1  1  128RAL2
+                                          VC12-3   1  2  1  129RAL2
+                                          VC12-4   2  2  1  130RAL2
+                                          VC12-5   3  2  1  131RAL2
+                                          VC12-6   1  3  1  132RAL2
+                                          VC12-7   2  3  1  133RAL2
+                                          VC12-8   3  3  1  134RAL2
+                                          VC12-9   1  4  1  135RAL2
+                                          VC12-10  2  4  1  136RAL2
+                                          VC12-11  3  4  1  137RAL2
+                                          VC12-12  1  5  1  138RAL2
+                                          VC12-13  2  5  1  139RAL2
+                                          VC12-14  3  5  1  140RAL2
+                                          VC12-15  1  6  1  141RAL2
+                                          VC12-16  2  6  1  142RAL2
+                                          VC12-17  3  6  1  143RAL2
+                                          VC12-18  1  7  1  144RAL2
+                                          VC12-19  2  7  1  145RAL2
+                                          VC12-20  3  7  1  146RAL2
+                                          VC12-21  1  1  2  147RAL2
+                                          VC12-22  2  1  2  148RAL2
+                                          VC12-23  3  1  2  149RAL2
+                                          VC12-24  1  2  2  150RAL2
+                                          VC12-25  2  2  2  151RAL2
+                                          VC12-26  3  2  2  152RAL2
+                                          VC12-27  1  3  2  153RAL2
+                                          VC12-28  2  3  2  154RAL2
+                                          VC12-29  3  3  2  155RAL2
+                                          VC12-30  1  4  2  156RAL2
+                                          VC12-31  2  4  2  157RAL2
+                                          VC12-32  3  4  2  158RAL2
+                                          VC12-33  1  5  2  159RAL2
+                                          VC12-34  2  5  2  160RAL2
+                                          VC12-35  3  5  2  161RAL2
+                                          VC12-36  1  6  2  162RAL2
+                                          VC12-37  2  6  2  163RAL2
+                                          VC12-38  3  6  2  164RAL2
+                                          VC12-39  1  7  2  165RAL2
+                                          VC12-40  2  7  2  166RAL2
+                                          VC12-41  3  7  2  167RAL2
+                                          VC12-42  1  1  3  168RAL2
+                                          VC12-43  2  1  3  169RAL2
+                                          VC12-44  3  1  3  170RAL2
+                                          VC12-45  1  2  3  171RAL2
+                                          VC12-46  2  2  3  172RAL2
+                                          VC12-47  3  2  3  173RAL2
+                                          VC12-48  1  3  3  174RAL2
+                                          VC12-49  2  3  3  175RAL2
+                                          VC12-50  3  3  3  176RAL2
+                                          VC12-51  1  4  3  177RAL2
+                                          VC12-52  2  4  3  178RAL2
+                                          VC12-53  3  4  3  179RAL2
+                                          VC12-54  1  5  3  180RAL2
+                                          VC12-55  2  5  3  181RAL2
+                                          VC12-56  3  5  3  182RAL2
+                                          VC12-57  1  6  3  183RAL2
+                                          VC12-58  2  6  3  184RAL2
+                                          VC12-59  3  6  3  185RAL2
+                                          VC12-60  1  7  3  186RAL2
+                                          VC12-61  2  7  3  187RAL2
+                                          VC12-62  3  7  3  188RAL2
+
+SDIP     SDIPOWNER
+5ETM2    SDIPM2
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+6ETM2    ETM2-6       MS-0         VC4-0  VC12-0   1  1  1  252RAL2
+                      MS-1                VC12-1   2  1  1  253RAL2
+                                          VC12-2   3  1  1  254RAL2
+                                          VC12-3   1  2  1  255RAL2
+                                          VC12-4   2  2  1  256RAL2
+                                          VC12-5   3  2  1  257RAL2
+                                          VC12-6   1  3  1  258RAL2
+                                          VC12-7   2  3  1  259RAL2
+                                          VC12-8   3  3  1  260RAL2
+                                          VC12-9   1  4  1  261RAL2
+                                          VC12-10  2  4  1  262RAL2
+                                          VC12-11  3  4  1  263RAL2
+                                          VC12-12  1  5  1  264RAL2
+                                          VC12-13  2  5  1  265RAL2
+                                          VC12-14  3  5  1  266RAL2
+                                          VC12-15  1  6  1  267RAL2
+                                          VC12-16  2  6  1  268RAL2
+                                          VC12-17  3  6  1  269RAL2
+                                          VC12-18  1  7  1  270RAL2
+                                          VC12-19  2  7  1  271RAL2
+                                          VC12-20  3  7  1  272RAL2
+                                          VC12-21  1  1  2  273RAL2
+                                          VC12-22  2  1  2  274RAL2
+                                          VC12-23  3  1  2  275RAL2
+                                          VC12-24  1  2  2  276RAL2
+                                          VC12-25  2  2  2  277RAL2
+                                          VC12-26  3  2  2  278RAL2
+                                          VC12-27  1  3  2  279RAL2
+                                          VC12-28  2  3  2  280RAL2
+                                          VC12-29  3  3  2  281RAL2
+                                          VC12-30  1  4  2  282RAL2
+                                          VC12-31  2  4  2  283RAL2
+                                          VC12-32  3  4  2  284RAL2
+                                          VC12-33  1  5  2  285RAL2
+                                          VC12-34  2  5  2  286RAL2
+                                          VC12-35  3  5  2  287RAL2
+                                          VC12-36  1  6  2  288RAL2
+                                          VC12-37  2  6  2  289RAL2
+                                          VC12-38  3  6  2  290RAL2
+                                          VC12-39  1  7  2  291RAL2
+                                          VC12-40  2  7  2  292RAL2
+                                          VC12-41  3  7  2  293RAL2
+                                          VC12-42  1  1  3  294RAL2
+                                          VC12-43  2  1  3  295RAL2
+                                          VC12-44  3  1  3  296RAL2
+                                          VC12-45  1  2  3  297RAL2
+                                          VC12-46  2  2  3  298RAL2
+                                          VC12-47  3  2  3  299RAL2
+                                          VC12-48  1  3  3  300RAL2
+                                          VC12-49  2  3  3  301RAL2
+                                          VC12-50  3  3  3  302RAL2
+                                          VC12-51  1  4  3  303RAL2
+                                          VC12-52  2  4  3  304RAL2
+                                          VC12-53  3  4  3  305RAL2
+                                          VC12-54  1  5  3  306RAL2
+                                          VC12-55  2  5  3  307RAL2
+                                          VC12-56  3  5  3  308RAL2
+                                          VC12-57  1  6  3  309RAL2
+                                          VC12-58  2  6  3  310RAL2
+                                          VC12-59  3  6  3  311RAL2
+                                          VC12-60  1  7  3  312RAL2
+                                          VC12-61  2  7  3  313RAL2
+                                          VC12-62  3  7  3  314RAL2
+
+SDIP     SDIPOWNER
+6ETM2    SDIPM2
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+7ETM2    ETM2-7       MS-0         VC4-0  VC12-0   1  1  1  189RAL2
+                      MS-1                VC12-1   2  1  1  190RAL2
+                                          VC12-2   3  1  1  191RAL2
+                                          VC12-3   1  2  1  192RAL2
+                                          VC12-4   2  2  1  193RAL2
+                                          VC12-5   3  2  1  194RAL2
+                                          VC12-6   1  3  1  195RAL2
+                                          VC12-7   2  3  1  196RAL2
+                                          VC12-8   3  3  1  197RAL2
+                                          VC12-9   1  4  1  198RAL2
+                                          VC12-10  2  4  1  199RAL2
+                                          VC12-11  3  4  1  200RAL2
+                                          VC12-12  1  5  1  201RAL2
+                                          VC12-13  2  5  1  202RAL2
+                                          VC12-14  3  5  1  203RAL2
+                                          VC12-15  1  6  1  204RAL2
+                                          VC12-16  2  6  1  205RAL2
+                                          VC12-17  3  6  1  206RAL2
+                                          VC12-18  1  7  1  207RAL2
+                                          VC12-19  2  7  1  208RAL2
+                                          VC12-20  3  7  1  209RAL2
+                                          VC12-21  1  1  2  210RAL2
+                                          VC12-22  2  1  2  211RAL2
+                                          VC12-23  3  1  2  212RAL2
+                                          VC12-24  1  2  2  213RAL2
+                                          VC12-25  2  2  2  214RAL2
+                                          VC12-26  3  2  2  215RAL2
+                                          VC12-27  1  3  2  216RAL2
+                                          VC12-28  2  3  2  217RAL2
+                                          VC12-29  3  3  2  218RAL2
+                                          VC12-30  1  4  2  219RAL2
+                                          VC12-31  2  4  2  220RAL2
+                                          VC12-32  3  4  2  221RAL2
+                                          VC12-33  1  5  2  222RAL2
+                                          VC12-34  2  5  2  223RAL2
+                                          VC12-35  3  5  2  224RAL2
+                                          VC12-36  1  6  2  225RAL2
+                                          VC12-37  2  6  2  226RAL2
+                                          VC12-38  3  6  2  227RAL2
+                                          VC12-39  1  7  2  228RAL2
+                                          VC12-40  2  7  2  229RAL2
+                                          VC12-41  3  7  2  230RAL2
+                                          VC12-42  1  1  3  231RAL2
+                                          VC12-43  2  1  3  232RAL2
+                                          VC12-44  3  1  3  233RAL2
+                                          VC12-45  1  2  3  234RAL2
+                                          VC12-46  2  2  3  235RAL2
+                                          VC12-47  3  2  3  236RAL2
+                                          VC12-48  1  3  3  237RAL2
+                                          VC12-49  2  3  3  238RAL2
+                                          VC12-50  3  3  3  239RAL2
+                                          VC12-51  1  4  3  240RAL2
+                                          VC12-52  2  4  3  241RAL2
+                                          VC12-53  3  4  3  242RAL2
+                                          VC12-54  1  5  3  243RAL2
+                                          VC12-55  2  5  3  244RAL2
+                                          VC12-56  3  5  3  245RAL2
+                                          VC12-57  1  6  3  246RAL2
+                                          VC12-58  2  6  3  247RAL2
+                                          VC12-59  3  6  3  248RAL2
+                                          VC12-60  1  7  3  249RAL2
+                                          VC12-61  2  7  3  250RAL2
+                                          VC12-62  3  7  3  251RAL2
+
+SDIP     SDIPOWNER
+7ETM2    SDIPM2
+
+END
+
+<dtstp:dip=all;
+DIGITAL PATH STATE
+
+DIP      TYPE    STATE  LOOP TSLOTL DIPEND   FAULT                SECTION
+0RAL2    IEX     WO
+1RAL2    IEX     WO
+2RAL2    IEX     WO
+3RAL2    IEX     WO
+4RAL2    IEX     WO
+5RAL2    IEX     WO
+6RAL2    IEX     WO
+7RAL2    IEX     WO
+8RAL2    IEX     WO
+9RAL2    IEX     WO
+10RAL2   IEX     WO
+11RAL2   IEX     WO
+12RAL2   IEX     WO
+13RAL2   IEX     WO
+14RAL2   IEX     WO
+15RAL2   IEX     WO
+16RAL2   IEX     WO
+17RAL2   IEX     WO
+18RAL2   IEX     WO
+19RAL2   IEX     WO
+20RAL2   IEX     WO
+21RAL2   IEX     WO
+22RAL2   IEX     WO
+23RAL2   IEX     WO
+24RAL2   IEX     WO
+25RAL2   IEX     WO
+26RAL2   IEX     WO
+27RAL2   IEX     WO
+28RAL2   IEX     WO
+29RAL2   IEX     WO
+30RAL2   IEX     WO
+31RAL2   IEX     WO
+32RAL2   IEX     WO
+33RAL2   IEX     WO
+34RAL2   IEX     WO
+35RAL2   IEX     WO
+36RAL2   IEX     WO
+37RAL2   IEX     WO
+38RAL2   IEX     WO
+39RAL2   IEX     WO
+40RAL2   IEX     WO
+41RAL2   IEX     WO
+42RAL2   IEX     WO
+43RAL2   IEX     WO
+44RAL2   IEX     WO
+45RAL2   IEX     WO
+46RAL2   IEX     WO
+47RAL2   IEX     WO
+48RAL2   IEX     WO
+49RAL2   IEX     WO
+50RAL2   IEX     WO
+51RAL2   IEX     WO
+52RAL2   IEX     WO
+53RAL2   IEX     WO
+54RAL2   IEX     WO
+55RAL2   IEX     WO
+56RAL2   IEX     WO
+57RAL2   IEX     WO
+58RAL2   IEX     WO
+59RAL2   IEX     WO
+60RAL2   IEX     WO
+61RAL2   IEX     WO
+62RAL2   IEX     WO
+63RAL2   IEX     WO
+64RAL2   IEX     WO
+65RAL2   IEX     WO
+66RAL2   IEX     WO
+67RAL2   IEX     WO
+68RAL2   IEX     WO
+69RAL2   IEX     WO
+70RAL2   IEX     WO
+71RAL2   IEX     WO
+72RAL2   IEX     WO
+73RAL2   IEX     WO
+74RAL2   IEX     WO
+75RAL2   IEX     WO
+76RAL2   IEX     WO
+77RAL2   IEX     WO
+78RAL2   IEX     WO
+79RAL2   IEX     WO
+80RAL2   IEX     WO
+81RAL2   IEX     WO
+82RAL2   IEX     WO
+83RAL2   IEX     WO
+84RAL2   IEX     WO
+85RAL2   IEX     WO
+86RAL2   IEX     WO
+87RAL2   IEX     WO
+88RAL2   IEX     WO
+89RAL2   IEX     WO
+90RAL2   IEX     WO
+91RAL2   IEX     WO
+92RAL2   IEX     WO
+93RAL2   IEX     WO
+94RAL2   IEX     WO
+95RAL2   IEX     WO
+96RAL2   IEX     WO
+97RAL2   IEX     WO
+98RAL2   IEX     WO
+99RAL2   IEX     WO
+100RAL2  IEX     WO
+101RAL2  IEX     WO
+102RAL2  IEX     WO
+103RAL2  IEX     WO
+104RAL2  IEX     WO
+105RAL2  IEX     WO
+106RAL2  IEX     WO
+107RAL2  IEX     WO
+108RAL2  IEX     WO
+109RAL2  IEX     WO
+110RAL2  IEX     WO
+111RAL2  IEX     WO
+112RAL2  IEX     WO
+113RAL2  IEX     WO
+114RAL2  IEX     WO
+115RAL2  IEX     WO
+116RAL2  IEX     WO
+117RAL2  IEX     WO
+118RAL2  IEX     WO
+119RAL2  IEX     WO
+120RAL2  IEX     WO
+121RAL2  IEX     WO
+122RAL2  IEX     WO
+123RAL2  IEX     WO
+124RAL2  IEX     WO
+125RAL2  IEX     WO
+126RBL2  IEX     WO
+127RBL2  IEX     WO
+128RBL2  IEX     WO
+129RBL2  IEX     WO
+130RBL2  IEX     WO
+131RBL2  IEX     WO
+132RBL2  IEX     WO
+133RBL2  IEX     WO
+134RBL2  IEX     WO
+135RBL2  IEX     WO
+136RBL2  IEX     WO
+137RBL2  IEX     WO
+138RBL2  IEX     WO
+139RBL2  IEX     WO
+140RBL2  IEX     WO
+141RBL2  IEX     WO
+142RBL2  IEX     WO
+143RBL2  IEX     WO
+144RBL2  IEX     WO
+145RBL2  IEX     WO
+146RBL2  IEX     WO
+147RBL2  IEX     WO
+148RBL2  IEX     WO
+149RBL2  IEX     WO
+150RBL2  IEX     WO
+151RBL2  IEX     WO
+152RBL2  IEX     WO
+153RBL2  IEX     WO
+154RBL2  IEX     WO
+155RBL2  IEX     WO
+156RBL2  IEX     WO
+157RBL2  IEX     WO
+158RBL2  IEX     WO
+159RBL2  IEX     WO
+160RBL2  IEX     WO
+161RBL2  IEX     WO
+162RBL2  IEX     WO
+163RBL2  IEX     WO
+164RBL2  IEX     WO
+165RBL2  IEX     WO
+166RBL2  IEX     WO
+167RBL2  IEX     WO
+168RBL2  IEX     WO
+169RBL2  IEX     WO
+170RBL2  IEX     WO
+171RBL2  IEX     WO
+172RBL2  IEX     MBL
+173RBL2  IEX     MBL
+174RBL2  IEX     MBL
+175RBL2  IEX     WO
+176RBL2  IEX     MBL
+177RBL2  IEX     MBL
+178RBL2  IEX     MBL
+179RBL2  IEX     MBL
+180RBL2  IEX     MBL
+181RBL2  IEX     MBL
+182RBL2  IEX     MBL
+183RBL2  IEX     MBL
+184RBL2  IEX     MBL
+185RBL2  IEX     MBL
+186RBL2  IEX     MBL
+187RBL2  IEX     MBL
+188RBL2  IEX     MBL
+0RBL2    IEX     WO
+1RBL2    IEX     WO
+2RBL2    IEX     WO
+3RBL2    IEX     WO
+4RBL2    IEX     WO
+5RBL2    IEX     WO
+6RBL2    IEX     WO
+7RBL2    IEX     WO
+8RBL2    IEX     WO
+9RBL2    IEX     WO
+10RBL2   IEX     WO
+11RBL2   IEX     WO
+12RBL2   IEX     WO
+13RBL2   IEX     WO
+14RBL2   IEX     WO
+15RBL2   IEX     WO
+16RBL2   IEX     WO
+17RBL2   IEX     WO
+18RBL2   IEX     WO
+19RBL2   IEX     WO
+20RBL2   IEX     WO
+21RBL2   IEX     WO
+22RBL2   IEX     WO
+23RBL2   IEX     WO
+24RBL2   IEX     WO
+25RBL2   IEX     WO
+26RBL2   IEX     WO
+27RBL2   IEX     WO
+28RBL2   IEX     ABL                         AIS
+29RBL2   IEX     WO
+30RBL2   IEX     WO
+31RBL2   IEX     WO
+32RBL2   IEX     WO
+33RBL2   IEX     WO
+34RBL2   IEX     WO
+35RBL2   IEX     WO
+36RBL2   IEX     WO
+37RBL2   IEX     WO
+38RBL2   IEX     WO
+39RBL2   IEX     WO
+40RBL2   IEX     WO
+41RBL2   IEX     WO
+42RBL2   IEX     WO
+43RBL2   IEX     WO
+44RBL2   IEX     WO
+45RBL2   IEX     WO
+46RBL2   IEX     WO
+47RBL2   IEX     WO
+48RBL2   IEX     WO
+49RBL2   IEX     WO
+50RBL2   IEX     WO
+51RBL2   IEX     WO
+52RBL2   IEX     WO
+53RBL2   IEX     WO
+54RBL2   IEX     WO
+55RBL2   IEX     WO
+56RBL2   IEX     WO
+57RBL2   IEX     WO
+58RBL2   IEX     MBL
+59RBL2   IEX     MBL
+60RBL2   IEX     MBL
+61RBL2   IEX     MBL
+62RBL2   IEX     MBL
+63RBL2   IEX     WO
+64RBL2   IEX     WO
+65RBL2   IEX     WO
+66RBL2   IEX     WO
+67RBL2   IEX     WO
+68RBL2   IEX     WO
+69RBL2   IEX     WO
+70RBL2   IEX     WO
+71RBL2   IEX     WO
+72RBL2   IEX     WO
+73RBL2   IEX     WO
+74RBL2   IEX     WO
+75RBL2   IEX     WO
+76RBL2   IEX     WO
+77RBL2   IEX     WO
+78RBL2   IEX     WO
+79RBL2   IEX     ABL                         AIS
+80RBL2   IEX     WO
+81RBL2   IEX     WO
+82RBL2   IEX     WO
+83RBL2   IEX     WO
+84RBL2   IEX     WO
+85RBL2   IEX     WO
+86RBL2   IEX     WO
+87RBL2   IEX     WO
+88RBL2   IEX     WO
+89RBL2   IEX     WO
+90RBL2   IEX     WO
+91RBL2   IEX     WO
+92RBL2   IEX     WO
+93RBL2   IEX     WO
+94RBL2   IEX     WO
+95RBL2   IEX     WO
+96RBL2   IEX     WO
+97RBL2   IEX     WO
+98RBL2   IEX     WO
+99RBL2   IEX     WO
+100RBL2  IEX     WO
+101RBL2  IEX     WO
+102RBL2  IEX     WO
+103RBL2  IEX     WO
+104RBL2  IEX     WO
+105RBL2  IEX     WO
+106RBL2  IEX     WO
+107RBL2  IEX     WO
+108RBL2  IEX     WO
+109RBL2  IEX     WO
+110RBL2  IEX     WO
+111RBL2  IEX     WO
+112RBL2  IEX     WO
+113RBL2  IEX     WO
+114RBL2  IEX     WO
+115RBL2  IEX     WO
+116RBL2  IEX     WO
+117RBL2  IEX     WO
+118RBL2  IEX     WO
+119RBL2  IEX     WO
+120RBL2  IEX     WO
+121RBL2  IEX     WO
+122RBL2  IEX     WO
+123RBL2  IEX     WO
+124RBL2  IEX     WO
+125RBL2  IEX     WO
+126RAL2  IEX     WO
+127RAL2  IEX     WO
+128RAL2  IEX     WO
+129RAL2  IEX     WO
+130RAL2  IEX     WO
+131RAL2  IEX     WO
+132RAL2  IEX     WO
+133RAL2  IEX     WO
+134RAL2  IEX     WO
+135RAL2  IEX     WO
+136RAL2  IEX     WO
+137RAL2  IEX     WO
+138RAL2  IEX     WO
+139RAL2  IEX     WO
+140RAL2  IEX     WO
+141RAL2  IEX     WO
+142RAL2  IEX     WO
+143RAL2  IEX     WO
+144RAL2  IEX     WO
+145RAL2  IEX     WO
+146RAL2  IEX     WO
+147RAL2  IEX     WO
+148RAL2  IEX     WO
+149RAL2  IEX     WO
+150RAL2  IEX     WO
+151RAL2  IEX     WO
+152RAL2  IEX     WO
+153RAL2  IEX     WO
+154RAL2  IEX     WO
+155RAL2  IEX     WO
+156RAL2  IEX     WO
+157RAL2  IEX     WO
+158RAL2  IEX     WO
+159RAL2  IEX     WO
+160RAL2  IEX     WO
+161RAL2  IEX     WO
+162RAL2  IEX     WO
+163RAL2  IEX     WO
+164RAL2  IEX     WO
+165RAL2  IEX     WO
+166RAL2  IEX     WO
+167RAL2  IEX     WO
+168RAL2  IEX     WO
+169RAL2  IEX     WO
+170RAL2  IEX     WO
+171RAL2  IEX     WO
+172RAL2  IEX     WO
+173RAL2  IEX     WO
+174RAL2  IEX     WO
+175RAL2  IEX     WO
+176RAL2  IEX     WO
+177RAL2  IEX     WO
+178RAL2  IEX     WO
+179RAL2  IEX     WO
+180RAL2  IEX     WO
+181RAL2  IEX     WO
+182RAL2  IEX     WO
+183RAL2  IEX     WO
+184RAL2  IEX     WO
+185RAL2  IEX     WO
+186RAL2  IEX     WO
+187RAL2  IEX     WO
+188RAL2  IEX     WO
+252RAL2  IEX     WO
+253RAL2  IEX     WO
+254RAL2  IEX     WO
+255RAL2  IEX     WO
+256RAL2  IEX     WO
+257RAL2  IEX     WO
+258RAL2  IEX     WO
+259RAL2  IEX     WO
+260RAL2  IEX     WO
+261RAL2  IEX     WO
+262RAL2  IEX     WO
+263RAL2  IEX     WO
+264RAL2  IEX     WO
+265RAL2  IEX     WO
+266RAL2  IEX     WO
+267RAL2  IEX     WO
+268RAL2  IEX     WO
+269RAL2  IEX     WO
+270RAL2  IEX     WO
+271RAL2  IEX     WO
+272RAL2  IEX     WO
+273RAL2  IEX     WO
+274RAL2  IEX     WO
+275RAL2  IEX     WO
+276RAL2  IEX     WO
+277RAL2  IEX     WO
+278RAL2  IEX     WO
+279RAL2  IEX     WO
+280RAL2  IEX     WO
+281RAL2  IEX     WO
+282RAL2  IEX     WO
+283RAL2  IEX     WO
+284RAL2  IEX     WO
+285RAL2  IEX     WO
+286RAL2  IEX     WO
+287RAL2  IEX     WO
+288RAL2  IEX     WO
+289RAL2  IEX     WO
+290RAL2  IEX     WO
+291RAL2  IEX     WO
+292RAL2  IEX     WO
+293RAL2  IEX     WO
+294RAL2  IEX     WO
+295RAL2  IEX     WO
+296RAL2  IEX     WO
+297RAL2  IEX     WO
+298RAL2  IEX     WO
+299RAL2  IEX     WO
+300RAL2  IEX     WO
+301RAL2  IEX     WO
+302RAL2  IEX     WO
+303RAL2  IEX     WO
+304RAL2  IEX     WO
+305RAL2  IEX     WO
+306RAL2  IEX     WO
+307RAL2  IEX     WO
+308RAL2  IEX     WO
+309RAL2  IEX     WO
+310RAL2  IEX     WO
+311RAL2  IEX     WO
+312RAL2  IEX     WO
+313RAL2  IEX     WO
+314RAL2  IEX     WO
+189RAL2  IEX     WO
+190RAL2  IEX     WO
+191RAL2  IEX     WO
+192RAL2  IEX     WO
+193RAL2  IEX     WO
+194RAL2  IEX     WO
+195RAL2  IEX     WO
+196RAL2  IEX     WO
+197RAL2  IEX     WO
+198RAL2  IEX     WO
+199RAL2  IEX     WO
+200RAL2  IEX     WO
+201RAL2  IEX     WO
+202RAL2  IEX     WO
+203RAL2  IEX     WO
+204RAL2  IEX     WO
+205RAL2  IEX     WO
+206RAL2  IEX     WO
+207RAL2  IEX     WO
+208RAL2  IEX     WO
+209RAL2  IEX     WO
+210RAL2  IEX     WO
+211RAL2  IEX     WO
+212RAL2  IEX     WO
+213RAL2  IEX     WO
+214RAL2  IEX     WO
+215RAL2  IEX     WO
+216RAL2  IEX     WO
+217RAL2  IEX     WO
+218RAL2  IEX     WO
+219RAL2  IEX     WO
+220RAL2  IEX     WO
+221RAL2  IEX     WO
+222RAL2  IEX     WO
+223RAL2  IEX     WO
+224RAL2  IEX     WO
+225RAL2  IEX     WO
+226RAL2  IEX     WO
+227RAL2  IEX     WO
+228RAL2  IEX     WO
+229RAL2  IEX     WO
+230RAL2  IEX     WO
+231RAL2  IEX     WO
+232RAL2  IEX     WO
+233RAL2  IEX     WO
+234RAL2  IEX     WO
+235RAL2  IEX     WO
+236RAL2  IEX     WO
+237RAL2  IEX     WO
+238RAL2  IEX     WO
+239RAL2  IEX     WO
+240RAL2  IEX     WO
+241RAL2  IEX     WO
+242RAL2  IEX     WO
+243RAL2  IEX     WO
+244RAL2  IEX     WO
+245RAL2  IEX     WO
+246RAL2  IEX     WO
+247RAL2  IEX     WO
+248RAL2  IEX     WO
+249RAL2  IEX     WO
+250RAL2  IEX     WO
+251RAL2  IEX     WO
+END
+
+<
+*** Disconnected from BSC2BYS ***
+
+*** Connected to BSC8BAR ***
 <tpcop:sdip=all;
 SYNCHRONOUS DIGITAL PATH DATA
 
@@ -17,3 +1070,926 @@ SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
                             MS-1  CLREF         VC12-1   2  1  1  01ET
                                                 VC12-2   3  1  1  02ET
                                                 VC12-3   1  2  1  03ET
+                                                VC12-4   2  2  1  04ET
+                                                VC12-5   3  2  1  05ET
+                                                VC12-6   1  3  1  06ET
+                                                VC12-7   2  3  1  07ET
+                                                VC12-8   3  3  1  08ET
+                                                VC12-9   1  4  1  09ET
+                                                VC12-10  2  4  1  10ET
+                                                VC12-11  3  4  1  11ET
+                                                VC12-12  1  5  1  12ET
+                                                VC12-13  2  5  1  13ET
+                                                VC12-14  3  5  1  14ET
+                                                VC12-15  1  6  1  15ET
+                                                VC12-16  2  6  1  16ET
+                                                VC12-17  3  6  1  17ET
+                                                VC12-18  1  7  1  18ET
+                                                VC12-19  2  7  1  19ET
+                                                VC12-20  3  7  1  20ET
+                                                VC12-21  1  1  2  21ET
+                                                VC12-22  2  1  2  22ET
+                                                VC12-23  3  1  2  23ET
+                                                VC12-24  1  2  2  24ET
+                                                VC12-25  2  2  2  25ET
+                                                VC12-26  3  2  2  26ET
+                                                VC12-27  1  3  2  27ET
+                                                VC12-28  2  3  2  28ET
+                                                VC12-29  3  3  2  29ET
+                                                VC12-30  1  4  2  30ET
+                                                VC12-31  2  4  2  31ET
+                                                VC12-32  3  4  2  32ET
+                                                VC12-33  1  5  2  33ET
+                                                VC12-34  2  5  2  34ET
+                                                VC12-35  3  5  2  35ET
+                                                VC12-36  1  6  2  36ET
+                                                VC12-37  2  6  2  37ET
+                                                VC12-38  3  6  2  38ET
+                                                VC12-39  1  7  2  39ET
+                                                VC12-40  2  7  2  40ET
+                                                VC12-41  3  7  2  41ET
+                                                VC12-42  1  1  3  42ET
+                                                VC12-43  2  1  3  43ET
+                                                VC12-44  3  1  3  44ET
+                                                VC12-45  1  2  3  45ET
+                                                VC12-46  2  2  3  46ET
+                                                VC12-47  3  2  3  47ET
+                                                VC12-48  1  3  3  48ET
+                                                VC12-49  2  3  3  49ET
+                                                VC12-50  3  3  3  50ET
+                                                VC12-51  1  4  3  51ET
+                                                VC12-52  2  4  3  52ET
+                                                VC12-53  3  4  3  53ET
+                                                VC12-54  1  5  3  54ET
+                                                VC12-55  2  5  3  55ET
+                                                VC12-56  3  5  3  56ET
+                                                VC12-57  1  6  3  57ET
+                                                VC12-58  2  6  3  58ET
+                                                VC12-59  3  6  3  59ET
+                                                VC12-60  1  7  3  60ET
+                                                VC12-61  2  7  3  61ET
+                                                VC12-62  3  7  3  62ET
+
+SDIP     SDIPOWNER
+0ETM40   SDIPM4
+
+SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
+1ETM40   ETM4-0           1 MS-0        VC4-0   VC12-0   1  1  1  63ET
+                            MS-1                VC12-1   2  1  1  64ET
+                                                VC12-2   3  1  1  65ET
+                                                VC12-3   1  2  1  66ET
+                                                VC12-4   2  2  1  67ET
+                                                VC12-5   3  2  1  68ET
+                                                VC12-6   1  3  1  69ET
+                                                VC12-7   2  3  1  70ET
+                                                VC12-8   3  3  1  71ET
+                                                VC12-9   1  4  1  72ET
+                                                VC12-10  2  4  1  73ET
+                                                VC12-11  3  4  1  74ET
+                                                VC12-12  1  5  1  75ET
+                                                VC12-13  2  5  1  76ET
+                                                VC12-14  3  5  1  77ET
+                                                VC12-15  1  6  1  78ET
+                                                VC12-16  2  6  1  79ET
+                                                VC12-17  3  6  1  80ET
+                                                VC12-18  1  7  1  81ET
+                                                VC12-19  2  7  1  82ET
+                                                VC12-20  3  7  1  83ET
+                                                VC12-21  1  1  2  84ET
+                                                VC12-22  2  1  2  85ET
+                                                VC12-23  3  1  2  86ET
+                                                VC12-24  1  2  2  87ET
+                                                VC12-25  2  2  2  88ET
+                                                VC12-26  3  2  2  89ET
+                                                VC12-27  1  3  2  90ET
+                                                VC12-28  2  3  2  91ET
+                                                VC12-29  3  3  2  92ET
+                                                VC12-30  1  4  2  93ET
+                                                VC12-31  2  4  2  94ET
+                                                VC12-32  3  4  2  95ET
+                                                VC12-33  1  5  2  96ET
+                                                VC12-34  2  5  2  97ET
+                                                VC12-35  3  5  2  98ET
+                                                VC12-36  1  6  2  99ET
+                                                VC12-37  2  6  2  100ET
+                                                VC12-38  3  6  2  101ET
+                                                VC12-39  1  7  2  102ET
+                                                VC12-40  2  7  2  103ET
+                                                VC12-41  3  7  2  104ET
+                                                VC12-42  1  1  3  105ET
+                                                VC12-43  2  1  3  106ET
+                                                VC12-44  3  1  3  107ET
+                                                VC12-45  1  2  3  108ET
+                                                VC12-46  2  2  3  109ET
+                                                VC12-47  3  2  3  110ET
+                                                VC12-48  1  3  3  111ET
+                                                VC12-49  2  3  3  112ET
+                                                VC12-50  3  3  3  113ET
+                                                VC12-51  1  4  3  114ET
+                                                VC12-52  2  4  3  115ET
+                                                VC12-53  3  4  3  116ET
+                                                VC12-54  1  5  3  117ET
+                                                VC12-55  2  5  3  118ET
+                                                VC12-56  3  5  3  119ET
+                                                VC12-57  1  6  3  120ET
+                                                VC12-58  2  6  3  121ET
+                                                VC12-59  3  6  3  122ET
+                                                VC12-60  1  7  3  123ET
+                                                VC12-61  2  7  3  124ET
+                                                VC12-62  3  7  3  125ET
+
+SDIP     SDIPOWNER
+1ETM40   SDIPM4
+
+SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
+2ETM40   ETM4-0           2 MS-0        VC4-0   VC12-0   1  1  1  126ET
+                            MS-1                VC12-1   2  1  1  127ET
+                                                VC12-2   3  1  1  128ET
+                                                VC12-3   1  2  1  129ET
+                                                VC12-4   2  2  1  130ET
+                                                VC12-5   3  2  1  131ET
+                                                VC12-6   1  3  1  132ET
+                                                VC12-7   2  3  1  133ET
+                                                VC12-8   3  3  1  134ET
+                                                VC12-9   1  4  1  135ET
+                                                VC12-10  2  4  1  136ET
+                                                VC12-11  3  4  1  137ET
+                                                VC12-12  1  5  1  138ET
+                                                VC12-13  2  5  1  139ET
+                                                VC12-14  3  5  1  140ET
+                                                VC12-15  1  6  1  141ET
+                                                VC12-16  2  6  1  142ET
+                                                VC12-17  3  6  1  143ET
+                                                VC12-18  1  7  1  144ET
+                                                VC12-19  2  7  1  145ET
+                                                VC12-20  3  7  1  146ET
+                                                VC12-21  1  1  2  147ET
+                                                VC12-22  2  1  2  148ET
+                                                VC12-23  3  1  2  149ET
+                                                VC12-24  1  2  2  150ET
+                                                VC12-25  2  2  2  151ET
+                                                VC12-26  3  2  2  152ET
+                                                VC12-27  1  3  2  153ET
+                                                VC12-28  2  3  2  154ET
+                                                VC12-29  3  3  2  155ET
+                                                VC12-30  1  4  2  156ET
+                                                VC12-31  2  4  2  157ET
+                                                VC12-32  3  4  2  158ET
+                                                VC12-33  1  5  2  159ET
+                                                VC12-34  2  5  2  160ET
+                                                VC12-35  3  5  2  161ET
+                                                VC12-36  1  6  2  162ET
+                                                VC12-37  2  6  2  163ET
+                                                VC12-38  3  6  2  164ET
+                                                VC12-39  1  7  2  165ET
+                                                VC12-40  2  7  2  166ET
+                                                VC12-41  3  7  2  167ET
+                                                VC12-42  1  1  3  168ET
+                                                VC12-43  2  1  3  169ET
+                                                VC12-44  3  1  3  170ET
+                                                VC12-45  1  2  3  171ET
+                                                VC12-46  2  2  3  172ET
+                                                VC12-47  3  2  3  173ET
+                                                VC12-48  1  3  3  174ET
+                                                VC12-49  2  3  3  175ET
+                                                VC12-50  3  3  3  176ET
+                                                VC12-51  1  4  3  177ET
+                                                VC12-52  2  4  3  178ET
+                                                VC12-53  3  4  3  179ET
+                                                VC12-54  1  5  3  180ET
+                                                VC12-55  2  5  3  181ET
+                                                VC12-56  3  5  3  182ET
+                                                VC12-57  1  6  3  183ET
+                                                VC12-58  2  6  3  184ET
+                                                VC12-59  3  6  3  185ET
+                                                VC12-60  1  7  3  186ET
+                                                VC12-61  2  7  3  187ET
+                                                VC12-62  3  7  3  188ET
+
+SDIP     SDIPOWNER
+2ETM40   SDIPM4
+
+SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
+3ETM40   ETM4-0           3 MS-0        VC4-0   VC12-0   1  1  1  189ET
+                            MS-1                VC12-1   2  1  1  190ET
+                                                VC12-2   3  1  1  191ET
+                                                VC12-3   1  2  1  192ET
+                                                VC12-4   2  2  1  193ET
+                                                VC12-5   3  2  1  194ET
+                                                VC12-6   1  3  1  195ET
+                                                VC12-7   2  3  1  196ET
+                                                VC12-8   3  3  1  197ET
+                                                VC12-9   1  4  1  198ET
+                                                VC12-10  2  4  1  199ET
+                                                VC12-11  3  4  1  200ET
+                                                VC12-12  1  5  1  201ET
+                                                VC12-13  2  5  1  202ET
+                                                VC12-14  3  5  1  203ET
+                                                VC12-15  1  6  1  204ET
+                                                VC12-16  2  6  1  205ET
+                                                VC12-17  3  6  1  206ET
+                                                VC12-18  1  7  1  207ET
+                                                VC12-19  2  7  1  208ET
+                                                VC12-20  3  7  1  209ET
+                                                VC12-21  1  1  2  210ET
+                                                VC12-22  2  1  2  211ET
+                                                VC12-23  3  1  2  212ET
+                                                VC12-24  1  2  2  213ET
+                                                VC12-25  2  2  2  214ET
+                                                VC12-26  3  2  2  215ET
+                                                VC12-27  1  3  2  216ET
+                                                VC12-28  2  3  2  217ET
+                                                VC12-29  3  3  2  218ET
+                                                VC12-30  1  4  2  219ET
+                                                VC12-31  2  4  2  220ET
+                                                VC12-32  3  4  2  221ET
+                                                VC12-33  1  5  2  222ET
+                                                VC12-34  2  5  2  223ET
+                                                VC12-35  3  5  2  224ET
+                                                VC12-36  1  6  2  225ET
+                                                VC12-37  2  6  2  226ET
+                                                VC12-38  3  6  2  227ET
+                                                VC12-39  1  7  2  228ET
+                                                VC12-40  2  7  2  229ET
+                                                VC12-41  3  7  2  230ET
+                                                VC12-42  1  1  3  231ET
+                                                VC12-43  2  1  3  232ET
+                                                VC12-44  3  1  3  233ET
+                                                VC12-45  1  2  3  234ET
+                                                VC12-46  2  2  3  235ET
+                                                VC12-47  3  2  3  236ET
+                                                VC12-48  1  3  3  237ET
+                                                VC12-49  2  3  3  238ET
+                                                VC12-50  3  3  3  239ET
+                                                VC12-51  1  4  3  240ET
+                                                VC12-52  2  4  3  241ET
+                                                VC12-53  3  4  3  242ET
+                                                VC12-54  1  5  3  243ET
+                                                VC12-55  2  5  3  244ET
+                                                VC12-56  3  5  3  245ET
+                                                VC12-57  1  6  3  246ET
+                                                VC12-58  2  6  3  247ET
+                                                VC12-59  3  6  3  248ET
+                                                VC12-60  1  7  3  249ET
+                                                VC12-61  2  7  3  250ET
+                                                VC12-62  3  7  3  251ET
+
+SDIP     SDIPOWNER
+3ETM40   SDIPM4
+
+SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
+4ETM40   ETM4-0           4 MS-0        VC4-0   VC12-0   1  1  1  252ET
+                            MS-1                VC12-1   2  1  1  253ET
+                                                VC12-2   3  1  1  254ET
+                                                VC12-3   1  2  1  255ET
+                                                VC12-4   2  2  1  256ET
+                                                VC12-5   3  2  1  257ET
+                                                VC12-6   1  3  1  258ET
+                                                VC12-7   2  3  1  259ET
+                                                VC12-8   3  3  1  260ET
+                                                VC12-9   1  4  1  261ET
+                                                VC12-10  2  4  1  262ET
+                                                VC12-11  3  4  1  263ET
+                                                VC12-12  1  5  1  264ET
+                                                VC12-13  2  5  1  265ET
+                                                VC12-14  3  5  1  266ET
+                                                VC12-15  1  6  1  267ET
+                                                VC12-16  2  6  1  268ET
+                                                VC12-17  3  6  1  269ET
+                                                VC12-18  1  7  1  270ET
+                                                VC12-19  2  7  1  271ET
+                                                VC12-20  3  7  1  272ET
+                                                VC12-21  1  1  2  273ET
+                                                VC12-22  2  1  2  274ET
+                                                VC12-23  3  1  2  275ET
+                                                VC12-24  1  2  2  276ET
+                                                VC12-25  2  2  2  277ET
+                                                VC12-26  3  2  2  278ET
+                                                VC12-27  1  3  2  279ET
+                                                VC12-28  2  3  2  280ET
+                                                VC12-29  3  3  2  281ET
+                                                VC12-30  1  4  2  282ET
+                                                VC12-31  2  4  2  283ET
+                                                VC12-32  3  4  2  284ET
+                                                VC12-33  1  5  2  285ET
+                                                VC12-34  2  5  2  286ET
+                                                VC12-35  3  5  2  287ET
+                                                VC12-36  1  6  2  288ET
+                                                VC12-37  2  6  2  289ET
+                                                VC12-38  3  6  2  290ET
+                                                VC12-39  1  7  2  291ET
+                                                VC12-40  2  7  2  292ET
+                                                VC12-41  3  7  2  293ET
+                                                VC12-42  1  1  3  294ET
+                                                VC12-43  2  1  3  295ET
+                                                VC12-44  3  1  3  296ET
+                                                VC12-45  1  2  3  297ET
+                                                VC12-46  2  2  3  298ET
+                                                VC12-47  3  2  3  299ET
+                                                VC12-48  1  3  3  300ET
+                                                VC12-49  2  3  3  301ET
+                                                VC12-50  3  3  3  302ET
+                                                VC12-51  1  4  3  303ET
+                                                VC12-52  2  4  3  304ET
+                                                VC12-53  3  4  3  305ET
+                                                VC12-54  1  5  3  306ET
+                                                VC12-55  2  5  3  307ET
+                                                VC12-56  3  5  3  308ET
+                                                VC12-57  1  6  3  309ET
+                                                VC12-58  2  6  3  310ET
+                                                VC12-59  3  6  3  311ET
+                                                VC12-60  1  7  3  312ET
+                                                VC12-61  2  7  3  313ET
+                                                VC12-62  3  7  3  314ET
+
+SDIP     SDIPOWNER
+4ETM40   SDIPM4
+
+SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
+5ETM40   ETM4-0           5 MS-0        VC4-0   VC12-0   1  1  1  315ET
+                            MS-1                VC12-1   2  1  1  316ET
+                                                VC12-2   3  1  1  317ET
+                                                VC12-3   1  2  1  318ET
+                                                VC12-4   2  2  1  319ET
+                                                VC12-5   3  2  1  320ET
+                                                VC12-6   1  3  1  321ET
+                                                VC12-7   2  3  1  322ET
+                                                VC12-8   3  3  1  323ET
+                                                VC12-9   1  4  1  324ET
+                                                VC12-10  2  4  1  325ET
+                                                VC12-11  3  4  1  326ET
+                                                VC12-12  1  5  1  327ET
+                                                VC12-13  2  5  1  328ET
+                                                VC12-14  3  5  1  329ET
+                                                VC12-15  1  6  1  330ET
+                                                VC12-16  2  6  1  331ET
+                                                VC12-17  3  6  1  332ET
+                                                VC12-18  1  7  1  333ET
+                                                VC12-19  2  7  1  334ET
+                                                VC12-20  3  7  1  335ET
+                                                VC12-21  1  1  2  336ET
+                                                VC12-22  2  1  2  337ET
+                                                VC12-23  3  1  2  338ET
+                                                VC12-24  1  2  2  339ET
+                                                VC12-25  2  2  2  340ET
+                                                VC12-26  3  2  2  341ET
+                                                VC12-27  1  3  2  342ET
+                                                VC12-28  2  3  2  343ET
+                                                VC12-29  3  3  2  344ET
+                                                VC12-30  1  4  2  345ET
+                                                VC12-31  2  4  2  346ET
+                                                VC12-32  3  4  2  347ET
+                                                VC12-33  1  5  2  348ET
+                                                VC12-34  2  5  2  349ET
+                                                VC12-35  3  5  2  350ET
+                                                VC12-36  1  6  2  351ET
+                                                VC12-37  2  6  2  352ET
+                                                VC12-38  3  6  2  353ET
+                                                VC12-39  1  7  2  354ET
+                                                VC12-40  2  7  2  355ET
+                                                VC12-41  3  7  2  356ET
+                                                VC12-42  1  1  3  357ET
+                                                VC12-43  2  1  3  358ET
+                                                VC12-44  3  1  3  359ET
+                                                VC12-45  1  2  3  360ET
+                                                VC12-46  2  2  3  361ET
+                                                VC12-47  3  2  3  362ET
+                                                VC12-48  1  3  3  363ET
+                                                VC12-49  2  3  3  364ET
+                                                VC12-50  3  3  3  365ET
+                                                VC12-51  1  4  3  366ET
+                                                VC12-52  2  4  3  367ET
+                                                VC12-53  3  4  3  368ET
+                                                VC12-54  1  5  3  369ET
+                                                VC12-55  2  5  3  370ET
+                                                VC12-56  3  5  3  371ET
+                                                VC12-57  1  6  3  372ET
+                                                VC12-58  2  6  3  373ET
+                                                VC12-59  3  6  3  374ET
+                                                VC12-60  1  7  3  375ET
+                                                VC12-61  2  7  3  376ET
+                                                VC12-62  3  7  3  377ET
+
+SDIP     SDIPOWNER
+5ETM40   SDIPM4
+
+SDIP     SNT          SDIPP MS    CLREF HP      LP       K  L  M  DIP
+6ETM40   ETM4-0           6 MS-0        VC4-0   VC12-0   1  1  1  378ET
+                            MS-1                VC12-1   2  1  1  379ET
+                                                VC12-2   3  1  1  380ET
+                                                VC12-3   1  2  1  381ET
+                                                VC12-4   2  2  1  382ET
+                                                VC12-5   3  2  1  383ET
+                                                VC12-6   1  3  1  384ET
+                                                VC12-7   2  3  1  385ET
+                                                VC12-8   3  3  1  386ET
+                                                VC12-9   1  4  1  387ET
+                                                VC12-10  2  4  1  388ET
+                                                VC12-11  3  4  1  389ET
+                                                VC12-12  1  5  1  390ET
+                                                VC12-13  2  5  1  391ET
+                                                VC12-14  3  5  1  392ET
+                                                VC12-15  1  6  1  393ET
+                                                VC12-16  2  6  1  394ET
+                                                VC12-17  3  6  1  395ET
+                                                VC12-18  1  7  1  396ET
+                                                VC12-19  2  7  1  397ET
+                                                VC12-20  3  7  1  398ET
+                                                VC12-21  1  1  2  399ET
+                                                VC12-22  2  1  2  400ET
+                                                VC12-23  3  1  2  401ET
+                                                VC12-24  1  2  2  402ET
+                                                VC12-25  2  2  2  403ET
+                                                VC12-26  3  2  2  404ET
+                                                VC12-27  1  3  2  405ET
+                                                VC12-28  2  3  2  406ET
+                                                VC12-29  3  3  2  407ET
+                                                VC12-30  1  4  2  408ET
+                                                VC12-31  2  4  2  409ET
+                                                VC12-32  3  4  2  410ET
+                                                VC12-33  1  5  2  411ET
+                                                VC12-34  2  5  2  412ET
+                                                VC12-35  3  5  2  413ET
+                                                VC12-36  1  6  2  414ET
+                                                VC12-37  2  6  2  415ET
+                                                VC12-38  3  6  2  416ET
+                                                VC12-39  1  7  2  417ET
+                                                VC12-40  2  7  2  418ET
+                                                VC12-41  3  7  2  419ET
+                                                VC12-42  1  1  3  420ET
+                                                VC12-43  2  1  3  421ET
+                                                VC12-44  3  1  3  422ET
+                                                VC12-45  1  2  3  423ET
+                                                VC12-46  2  2  3  424ET
+                                                VC12-47  3  2  3  425ET
+                                                VC12-48  1  3  3  426ET
+                                                VC12-49  2  3  3  427ET
+                                                VC12-50  3  3  3  428ET
+                                                VC12-51  1  4  3  429ET
+                                                VC12-52  2  4  3  430ET
+                                                VC12-53  3  4  3  431ET
+                                                VC12-54  1  5  3  432ET
+                                                VC12-55  2  5  3  433ET
+                                                VC12-56  3  5  3  434ET
+                                                VC12-57  1  6  3  435ET
+                                                VC12-58  2  6  3  436ET
+                                                VC12-59  3  6  3  437ET
+                                                VC12-60  1  7  3  438ET
+                                                VC12-61  2  7  3  439ET
+                                                VC12-62  3  7  3  440ET
+
+SDIP     SDIPOWNER
+6ETM40   SDIPM4
+
+END
+
+<dtstp:dip=all;
+DIGITAL PATH STATE
+
+DIP      TYPE    STATE  LOOP TSLOTL DIPEND   FAULT                SECTION
+00ET     IEX     WO
+01ET     IEX     WO
+02ET     IEX     MBL
+03ET     IEX     MBL
+04ET     IEX     MBL
+05ET     IEX     MBL
+06ET     IEX     MBL
+07ET     IEX     MBL
+08ET     IEX     MBL
+09ET     IEX     MBL
+10ET     IEX     MBL
+11ET     IEX     MBL
+12ET     IEX     MBL
+13ET     IEX     MBL
+14ET     IEX     MBL
+15ET     IEX     MBL
+16ET     IEX     MBL
+17ET     IEX     MBL
+18ET     IEX     MBL
+19ET     IEX     MBL
+20ET     IEX     MBL
+21ET     IEX     MBL
+22ET     IEX     MBL
+23ET     IEX     MBL
+24ET     IEX     MBL
+25ET     IEX     MBL
+26ET     IEX     MBL
+27ET     IEX     MBL
+28ET     IEX     MBL
+29ET     IEX     MBL
+30ET     IEX     MBL
+31ET     IEX     MBL
+32ET     IEX     MBL
+33ET     IEX     MBL
+34ET     IEX     MBL
+35ET     IEX     MBL
+36ET     IEX     MBL
+37ET     IEX     MBL
+38ET     IEX     MBL
+39ET     IEX     MBL
+40ET     IEX     MBL
+41ET     IEX     MBL
+42ET     IEX     MBL
+43ET     IEX     MBL
+44ET     IEX     MBL
+45ET     IEX     MBL
+46ET     IEX     MBL
+47ET     IEX     MBL
+48ET     IEX     MBL
+49ET     IEX     MBL
+50ET     IEX     MBL
+51ET     IEX     MBL
+52ET     IEX     MBL
+53ET     IEX     MBL
+54ET     IEX     MBL
+55ET     IEX     MBL
+56ET     IEX     MBL
+57ET     IEX     MBL
+58ET     IEX     MBL
+59ET     IEX     MBL
+60ET     IEX     MBL
+61ET     IEX     MBL
+62ET     IEX     MBL
+63ET     IEX     MBL
+64ET     IEX     MBL
+65ET     IEX     MBL
+66ET     IEX     MBL
+67ET     IEX     MBL
+68ET     IEX     MBL
+69ET     IEX     MBL
+70ET     IEX     MBL
+71ET     IEX     MBL
+72ET     IEX     MBL
+73ET     IEX     MBL
+74ET     IEX     MBL
+75ET     IEX     MBL
+76ET     IEX     MBL
+77ET     IEX     MBL
+78ET     IEX     MBL
+79ET     IEX     MBL
+80ET     IEX     MBL
+81ET     IEX     MBL
+82ET     IEX     MBL
+83ET     IEX     MBL
+84ET     IEX     MBL
+85ET     IEX     MBL
+86ET     IEX     MBL
+87ET     IEX     MBL
+88ET     IEX     MBL
+89ET     IEX     MBL
+90ET     IEX     MBL
+91ET     IEX     MBL
+92ET     IEX     MBL
+93ET     IEX     MBL
+94ET     IEX     MBL
+95ET     IEX     MBL
+96ET     IEX     MBL
+97ET     IEX     MBL
+98ET     IEX     MBL
+99ET     IEX     MBL
+100ET    IEX     MBL
+101ET    IEX     MBL
+102ET    IEX     MBL
+103ET    IEX     MBL
+104ET    IEX     MBL
+105ET    IEX     MBL
+106ET    IEX     MBL
+107ET    IEX     MBL
+108ET    IEX     MBL
+109ET    IEX     MBL
+110ET    IEX     MBL
+111ET    IEX     MBL
+112ET    IEX     MBL
+113ET    IEX     MBL
+114ET    IEX     MBL
+115ET    IEX     MBL
+116ET    IEX     MBL
+117ET    IEX     MBL
+118ET    IEX     MBL
+119ET    IEX     MBL
+120ET    IEX     MBL
+121ET    IEX     MBL
+122ET    IEX     MBL
+123ET    IEX     MBL
+124ET    IEX     MBL
+125ET    IEX     MBL
+126ET    IEX     MBL
+127ET    IEX     MBL
+128ET    IEX     MBL
+129ET    IEX     MBL
+130ET    IEX     MBL
+131ET    IEX     MBL
+132ET    IEX     MBL
+133ET    IEX     MBL
+134ET    IEX     MBL
+135ET    IEX     MBL
+136ET    IEX     MBL
+137ET    IEX     MBL
+138ET    IEX     MBL
+139ET    IEX     MBL
+140ET    IEX     MBL
+141ET    IEX     MBL
+142ET    IEX     MBL
+143ET    IEX     MBL
+144ET    IEX     MBL
+145ET    IEX     MBL
+146ET    IEX     MBL
+147ET    IEX     MBL
+148ET    IEX     MBL
+149ET    IEX     MBL
+150ET    IEX     MBL
+151ET    IEX     MBL
+152ET    IEX     MBL
+153ET    IEX     MBL
+154ET    IEX     MBL
+155ET    IEX     MBL
+156ET    IEX     MBL
+157ET    IEX     MBL
+158ET    IEX     MBL
+159ET    IEX     MBL
+160ET    IEX     MBL
+161ET    IEX     MBL
+162ET    IEX     MBL
+163ET    IEX     MBL
+164ET    IEX     MBL
+165ET    IEX     MBL
+166ET    IEX     MBL
+167ET    IEX     MBL
+168ET    IEX     MBL
+169ET    IEX     MBL
+170ET    IEX     MBL
+171ET    IEX     MBL
+172ET    IEX     MBL
+173ET    IEX     MBL
+174ET    IEX     MBL
+175ET    IEX     MBL
+176ET    IEX     MBL
+177ET    IEX     MBL
+178ET    IEX     MBL
+179ET    IEX     MBL
+180ET    IEX     MBL
+181ET    IEX     MBL
+182ET    IEX     MBL
+183ET    IEX     MBL
+184ET    IEX     MBL
+185ET    IEX     MBL
+186ET    IEX     MBL
+187ET    IEX     MBL
+188ET    IEX     MBL
+189ET    IEX     MBL
+190ET    IEX     MBL
+191ET    IEX     MBL
+192ET    IEX     MBL
+193ET    IEX     MBL
+194ET    IEX     MBL
+195ET    IEX     MBL
+196ET    IEX     MBL
+197ET    IEX     MBL
+198ET    IEX     MBL
+199ET    IEX     MBL
+200ET    IEX     MBL
+201ET    IEX     MBL
+202ET    IEX     MBL
+203ET    IEX     MBL
+204ET    IEX     MBL
+205ET    IEX     MBL
+206ET    IEX     MBL
+207ET    IEX     MBL
+208ET    IEX     MBL
+209ET    IEX     MBL
+210ET    IEX     MBL
+211ET    IEX     MBL
+212ET    IEX     MBL
+213ET    IEX     MBL
+214ET    IEX     MBL
+215ET    IEX     MBL
+216ET    IEX     MBL
+217ET    IEX     MBL
+218ET    IEX     MBL
+219ET    IEX     MBL
+220ET    IEX     MBL
+221ET    IEX     MBL
+222ET    IEX     MBL
+223ET    IEX     MBL
+224ET    IEX     MBL
+225ET    IEX     MBL
+226ET    IEX     MBL
+227ET    IEX     MBL
+228ET    IEX     MBL
+229ET    IEX     MBL
+230ET    IEX     MBL
+231ET    IEX     MBL
+232ET    IEX     MBL
+233ET    IEX     MBL
+234ET    IEX     MBL
+235ET    IEX     MBL
+236ET    IEX     MBL
+237ET    IEX     MBL
+238ET    IEX     MBL
+239ET    IEX     MBL
+240ET    IEX     MBL
+241ET    IEX     MBL
+242ET    IEX     MBL
+243ET    IEX     MBL
+244ET    IEX     MBL
+245ET    IEX     MBL
+246ET    IEX     MBL
+247ET    IEX     MBL
+248ET    IEX     MBL
+249ET    IEX     MBL
+250ET    IEX     MBL
+251ET    IEX     MBL
+252ET    IEX     MBL
+253ET    IEX     MBL
+254ET    IEX     MBL
+255ET    IEX     MBL
+256ET    IEX     MBL
+257ET    IEX     MBL
+258ET    IEX     MBL
+259ET    IEX     MBL
+260ET    IEX     MBL
+261ET    IEX     MBL
+262ET    IEX     MBL
+263ET    IEX     MBL
+264ET    IEX     MBL
+265ET    IEX     MBL
+266ET    IEX     MBL
+267ET    IEX     MBL
+268ET    IEX     MBL
+269ET    IEX     MBL
+270ET    IEX     MBL
+271ET    IEX     MBL
+272ET    IEX     MBL
+273ET    IEX     MBL
+274ET    IEX     MBL
+275ET    IEX     MBL
+276ET    IEX     MBL
+277ET    IEX     MBL
+278ET    IEX     MBL
+279ET    IEX     MBL
+280ET    IEX     MBL
+281ET    IEX     MBL
+282ET    IEX     MBL
+283ET    IEX     MBL
+284ET    IEX     MBL
+285ET    IEX     MBL
+286ET    IEX     MBL
+287ET    IEX     MBL
+288ET    IEX     MBL
+289ET    IEX     MBL
+290ET    IEX     MBL
+291ET    IEX     MBL
+292ET    IEX     MBL
+293ET    IEX     MBL
+294ET    IEX     MBL
+295ET    IEX     MBL
+296ET    IEX     MBL
+297ET    IEX     MBL
+298ET    IEX     MBL
+299ET    IEX     MBL
+300ET    IEX     MBL
+301ET    IEX     MBL
+302ET    IEX     MBL
+303ET    IEX     MBL
+304ET    IEX     MBL
+305ET    IEX     MBL
+306ET    IEX     MBL
+307ET    IEX     MBL
+308ET    IEX     MBL
+309ET    IEX     MBL
+310ET    IEX     MBL
+311ET    IEX     MBL
+312ET    IEX     MBL
+313ET    IEX     MBL
+314ET    IEX     MBL
+315ET    IEX     MBL
+316ET    IEX     MBL
+317ET    IEX     MBL
+318ET    IEX     MBL
+319ET    IEX     MBL
+320ET    IEX     MBL
+321ET    IEX     MBL
+322ET    IEX     MBL
+323ET    IEX     MBL
+324ET    IEX     MBL
+325ET    IEX     MBL
+326ET    IEX     MBL
+327ET    IEX     MBL
+328ET    IEX     MBL
+329ET    IEX     MBL
+330ET    IEX     MBL
+331ET    IEX     MBL
+332ET    IEX     MBL
+333ET    IEX     MBL
+334ET    IEX     MBL
+335ET    IEX     MBL
+336ET    IEX     MBL
+337ET    IEX     MBL
+338ET    IEX     MBL
+339ET    IEX     MBL
+340ET    IEX     MBL
+341ET    IEX     MBL
+342ET    IEX     MBL
+343ET    IEX     MBL
+344ET    IEX     MBL
+345ET    IEX     MBL
+346ET    IEX     MBL
+347ET    IEX     MBL
+348ET    IEX     MBL
+349ET    IEX     MBL
+350ET    IEX     MBL
+351ET    IEX     MBL
+352ET    IEX     MBL
+353ET    IEX     MBL
+354ET    IEX     MBL
+355ET    IEX     MBL
+356ET    IEX     MBL
+357ET    IEX     MBL
+358ET    IEX     MBL
+359ET    IEX     MBL
+360ET    IEX     MBL
+361ET    IEX     MBL
+362ET    IEX     MBL
+363ET    IEX     MBL
+364ET    IEX     MBL
+365ET    IEX     MBL
+366ET    IEX     MBL
+367ET    IEX     MBL
+368ET    IEX     MBL
+369ET    IEX     MBL
+370ET    IEX     MBL
+371ET    IEX     MBL
+372ET    IEX     MBL
+373ET    IEX     MBL
+374ET    IEX     MBL
+375ET    IEX     MBL
+376ET    IEX     MBL
+377ET    IEX     MBL
+378ET    IEX     MBL
+379ET    IEX     MBL
+380ET    IEX     MBL
+381ET    IEX     MBL
+382ET    IEX     MBL
+383ET    IEX     MBL
+384ET    IEX     MBL
+385ET    IEX     MBL
+386ET    IEX     MBL
+387ET    IEX     MBL
+388ET    IEX     MBL
+389ET    IEX     MBL
+390ET    IEX     MBL
+391ET    IEX     MBL
+392ET    IEX     MBL
+393ET    IEX     MBL
+394ET    IEX     MBL
+395ET    IEX     MBL
+396ET    IEX     MBL
+397ET    IEX     MBL
+398ET    IEX     MBL
+399ET    IEX     MBL
+400ET    IEX     MBL
+401ET    IEX     MBL
+402ET    IEX     MBL
+403ET    IEX     MBL
+404ET    IEX     MBL
+405ET    IEX     MBL
+406ET    IEX     MBL
+407ET    IEX     MBL
+408ET    IEX     MBL
+409ET    IEX     MBL
+410ET    IEX     MBL
+411ET    IEX     MBL
+412ET    IEX     MBL
+413ET    IEX     MBL
+414ET    IEX     MBL
+415ET    IEX     MBL
+416ET    IEX     MBL
+417ET    IEX     MBL
+418ET    IEX     MBL
+419ET    IEX     MBL
+420ET    IEX     MBL
+421ET    IEX     MBL
+422ET    IEX     MBL
+423ET    IEX     MBL
+424ET    IEX     MBL
+425ET    IEX     MBL
+426ET    IEX     MBL
+427ET    IEX     MBL
+428ET    IEX     MBL
+429ET    IEX     MBL
+430ET    IEX     MBL
+431ET    IEX     MBL
+432ET    IEX     MBL
+433ET    IEX     MBL
+434ET    IEX     MBL
+435ET    IEX     MBL
+436ET    IEX     MBL
+437ET    IEX     MBL
+438ET    IEX     MBL
+439ET    IEX     MBL
+440ET    IEX     MBL
+0ODP180  MO      WO
+0ODP80   MO      WO
+END
+
+<
