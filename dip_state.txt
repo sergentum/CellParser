@@ -1,0 +1,16 @@
+*** Connected to BSC2BYS ***
+<tpcop:sdip=all;
+SYNCHRONOUS DIGITAL PATH DATA
+
+SDIP     SNT          MS    CLREF  HP     LP       K  L  M  DIP
+0ETM2    ETM2-0       MS-0  CLREF  VC4-0  VC12-0   1  1  1  0RAL2
+                      MS-1  CLREF         VC12-1   2  1  1  1RAL2
+                                          VC12-2   3  1  1  2RAL2
+                                          VC12-3   1  2  1  3RAL2
+                                          VC12-4   2  2  1  4RAL2
+                                          VC12-5   3  2  1  5RAL2
+                                          VC12-6   1  3  1  6RAL2
+                                          VC12-7   2  3  1  7RAL2
+                                          VC12-8   3  3  1  8RAL2
+                                          VC12-9   1  4  1  9RAL2
+                                          VC12-10  2  4  1  10RAL2
