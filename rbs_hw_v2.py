@@ -11,6 +11,9 @@
 
 # **************************
 
+import time
+start_time = time.time()
+
 # open files
 inputFile = open("rbs_hw_input.txt", "r")
 outputFile = open("output.txt", "w")
@@ -95,6 +98,34 @@ for line in inputFile:  # read line by line from file
             BSC_RXOTRX = BSC + "_" + RXOTRX
             array3.append(BSC_RXOTRX + "," + BSC_TG + "," + RXOTRX + "," + RUREVISION + "," + RUSERIALNO)
 
+    if line.find("Disconnected") != -1:
+        # get three arrays together
+
+        for row_array3 in array3:
+            RXOTRX_in_array3 = row_array3[0:24]
+            BSC_TG_in_array3 = row_array3[26:40]
+            for row_array2 in array2:
+                RXOTRX_in_array2 = row_array2[0:24]
+                if RXOTRX_in_array3 == RXOTRX_in_array2:
+                    for row_array1 in array1:
+                        BSC_TG_in_array1 = row_array1[0:14]
+                        if BSC_TG_in_array3 == BSC_TG_in_array1:
+                            outputFile.write(row_array3 + "," + row_array2 + "," + row_array1 + "\n")
+                    #         array3.remove(row_array3)
+                    # array2.remove(row_array2)
+
+        # clear caches
+        array1.clear()
+        array2.clear()
+        array3.clear()
+        print(line)
+
+        # your lists have DIFFERENT sizes, so parser works incorrect or input data is incorrect or both
+        # print(len(array1))
+        # print(len(array2))
+        # print(len(array3))
+
+
 # for i in range(len(array1)):
 #    outputFile.write (array1[i] + "\n")
 
@@ -104,21 +135,9 @@ for line in inputFile:  # read line by line from file
 # for i in range(len(array3)):
 #    outputFile.write (array3[i] + "\n")
 
-# get three arrays together
 
-for row_array3 in array3:
-    RXOTRX_in_array3 = row_array3[0:24]
-    BSC_TG_in_array3 = row_array3[26:40]
-    for row_array2 in array2:
-        RXOTRX_in_array2 = row_array2[0:24]
-        if RXOTRX_in_array3 == RXOTRX_in_array2:
-            for row_array1 in array1:
-                BSC_TG_in_array1 = row_array1[0:14]
-                if BSC_TG_in_array3 == BSC_TG_in_array1:
-                    outputFile.write(row_array3 + "," + row_array2 + "," + row_array1 + "\n")
-            #         array3.remove(row_array3)
-            # array2.remove(row_array2)
 
 
 inputFile.close
 outputFile.close
+print("--- %s seconds ---" % (time.time() - start_time))
